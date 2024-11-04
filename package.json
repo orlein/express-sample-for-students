@@ -1,0 +1,9 @@
+{
+  "name": "express-sample-for-students",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
